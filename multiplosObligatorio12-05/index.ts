@@ -15,3 +15,4 @@ btnEnv.addEventListener("click", () => {
     console.log(numero1 + " no es multiplo de " + numero2);
   }
 });
+//Está muy bien tu solución
